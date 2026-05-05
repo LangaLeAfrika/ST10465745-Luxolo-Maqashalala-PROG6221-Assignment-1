@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4hK+6CS5MqE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luxolo\\source\\repos\\CyberSecurityBot\\CyberSecurityBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luxolo\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\luxolo\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\luxolo\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
