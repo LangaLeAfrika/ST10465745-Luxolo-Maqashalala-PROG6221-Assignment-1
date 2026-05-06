@@ -55,5 +55,6 @@ CyberSecurityBot is a C# console application that simulates a basic chatbot focu
 ST10465745
 Luxolo Maqashalala
 ---
-<img width="1900" height="1117" alt="image" src="https://github.com/user-attachments/assets/6da5095c-6d96-4ed8-bfb8-490fd0221e00" />
+<img width="1900" height="1117" alt="image" src="https://github.com/user-attachments/assets/b72f3688-1f88-4aab-b65c-75306b1d487d" />
+
 
