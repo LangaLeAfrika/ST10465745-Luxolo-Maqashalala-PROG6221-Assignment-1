@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\luxolo\\source\\repos\\CyberSecurityBot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|c:\\users\\luxolo\\source\\repos\\cybersecuritybot\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|solutionrelative:uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|c:\\users\\luxolo\\source\\repos\\cybersecuritybot\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|solutionrelative:audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|solutionrelative:responsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|c:\\users\\luxolo\\source\\repos\\cybersecuritybot\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|solutionrelative:chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|c:\\users\\luxolo\\source\\repos\\cybersecuritybot\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|solutionrelative:uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|c:\\users\\luxolo\\source\\repos\\cybersecuritybot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|c:\\users\\luxolo\\source\\repos\\cybersecuritybot\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|solutionrelative:chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,47 +33,50 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AudioPlayer.cs",
               "DocumentMoniker": "C:\\Users\\luxolo\\source\\repos\\CyberSecurityBot\\AudioPlayer.cs",
               "RelativeDocumentMoniker": "AudioPlayer.cs",
               "ToolTip": "C:\\Users\\luxolo\\source\\repos\\CyberSecurityBot\\AudioPlayer.cs",
               "RelativeToolTip": "AudioPlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-04T14:56:54.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UIHelper.cs",
               "DocumentMoniker": "C:\\Users\\luxolo\\source\\repos\\CyberSecurityBot\\UIHelper.cs",
               "RelativeDocumentMoniker": "UIHelper.cs",
               "ToolTip": "C:\\Users\\luxolo\\source\\repos\\CyberSecurityBot\\UIHelper.cs",
               "RelativeToolTip": "UIHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwEUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T14:53:52.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T14:53:52.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ResponseHandler.cs",
               "DocumentMoniker": "C:\\Users\\luxolo\\source\\repos\\CyberSecurityBot\\ResponseHandler.cs",
               "RelativeDocumentMoniker": "ResponseHandler.cs",
               "ToolTip": "C:\\Users\\luxolo\\source\\repos\\CyberSecurityBot\\ResponseHandler.cs",
               "RelativeToolTip": "ResponseHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-04T14:51:06.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ChatBot.cs",
               "DocumentMoniker": "C:\\Users\\luxolo\\source\\repos\\CyberSecurityBot\\ChatBot.cs",
               "RelativeDocumentMoniker": "ChatBot.cs",
@@ -81,21 +84,19 @@
               "RelativeToolTip": "ChatBot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T14:49:12.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T14:49:12.897Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\luxolo\\source\\repos\\CyberSecurityBot\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\luxolo\\source\\repos\\CyberSecurityBot\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T13:11:48.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T13:11:48.015Z"
             }
           ]
         }
